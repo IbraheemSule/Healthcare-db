@@ -1,0 +1,7 @@
+*.bak
+*.trn
+*.mdf
+*.ldf
+.vs/
+bin/
+obj/
